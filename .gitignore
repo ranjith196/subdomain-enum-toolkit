@@ -1,0 +1,21 @@
+# Results
+results/
+*.txt
+!wordlists/*.txt
+
+# Temp
+*.tmp
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Config with secrets
+provider-config.yaml
+config.yaml
